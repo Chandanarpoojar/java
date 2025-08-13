@@ -1,0 +1,10 @@
+class Festival{
+public static int festivalDays(int days){
+System.out.println(how many days we celebarte navarathri);
+return days;
+}
+public static String festivalName(String Name){
+System.out.println(name of the festivalName);
+return name;
+}
+}

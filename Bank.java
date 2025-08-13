@@ -2,7 +2,7 @@ class Bank{
 public static void main(String []ref){
 int employee=10;
 byte target = 1;
-short loan= 10000;
+short loan= 100000;
 char grade='1';
 boolean bankIsOpen=true;
 System.out.println("total employee present in the bank=" +employee);
