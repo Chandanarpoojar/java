@@ -24,7 +24,7 @@ System.out.println("anithaid");
 }else
 {
 number=4;
-System.out.println("its not anitha id");
+System.out.println("its not id");
 }
 System.out.println(number);
 System.out.println("-----------------");

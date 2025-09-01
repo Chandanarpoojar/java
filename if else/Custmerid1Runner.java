@@ -3,7 +3,7 @@ class Custmerid1Runner
 public static void main(String args[])
 {
 CustmerId.arunNumber("arun");
-CustmerId.anithaNumber("anith");
+CustmerId.anithaNumber("anitha");
 CustmerId.varunNumber("varun");
 CustmerId.chanduNumber("chandu");
 CustmerId.ajayNumber("ajay");
@@ -12,6 +12,9 @@ CustmerId.savithaNumber("savitha");
 CustmerId.kranNumber("kraan");
 CustmerId.chetuNumber("chetu");
 CustmerId.naveenNumber("naveen");
+
+
+
 CustmerId.manjuNumber("ankith");
 CustmerId.paviNumber("vidya");
 CustmerId.mansaNumber("bhavana");

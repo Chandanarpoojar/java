@@ -27,9 +27,5 @@ System.out.println("------------------");
 float[] percentages={88.9f,75.2f,98.9f,55.9f,95.0f,88.8f};
 float[]teacherPercentage=Teacher.percentage( percentages);
 System.out.println("------------------");
-
-
-
-
 }
 }

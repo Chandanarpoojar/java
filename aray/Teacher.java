@@ -37,6 +37,7 @@ public static double []attdence(double[]attdence)
 	
 	}
 	
+	
 public static boolean[]good(boolean[]teaching)
 {
 for (int teacgingWay=0;teacgingWay<teaching.length;teacgingWay++)

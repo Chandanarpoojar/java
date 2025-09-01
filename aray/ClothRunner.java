@@ -16,7 +16,7 @@ double[]codeNumber={177.1,177.2,177.3,177.4,177.5};
 double[]codes=Cloth.code(codeNumber);
 System.out.println("------------------");
 
-boolean[]Qulity={true,true,true,false,true};
+boolean[]Qulity={true,,true,false,true};
 boolean[]qulity=Cloth.good(Qulity);
 System.out.println("------------------");
 
