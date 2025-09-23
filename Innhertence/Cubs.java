@@ -1,0 +1,2 @@
+class Cubs extends Lion{
+}

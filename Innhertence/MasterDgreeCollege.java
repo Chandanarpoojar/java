@@ -1,0 +1,3 @@
+class MasterDgreeCollege extends University{
+	
+}

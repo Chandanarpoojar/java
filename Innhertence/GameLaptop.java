@@ -1,0 +1,2 @@
+class GameLaptop extends  Laptop{
+}
