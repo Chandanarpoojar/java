@@ -9,7 +9,7 @@ public class RbiRunner {
         sbi.displaySBI();
         KVG kvg=new KVG();
         kvg.displayKVG();
-        sbi.displayRbiBank();
+       sbi.displayRbiBank();
 
     }
 }

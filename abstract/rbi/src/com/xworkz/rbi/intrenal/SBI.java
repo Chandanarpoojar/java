@@ -8,6 +8,6 @@ public  class SBI extends Rbi {
 
     }
     public void displaySBI(){
-        System.out.println("this is sbi class");
+        System.out.println("this is 1st child sbi class");
     }
 }
